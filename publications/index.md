@@ -12,6 +12,7 @@ years:
 
 ## Publications
 
+<!-- Incluir publicações no arquivo publications.csv, no diretório _data -->
 
 {% for year in page.years %}
 
@@ -24,7 +25,9 @@ years:
 {%if item.year == year %}
 <div>
 <p><span class="label label-primary">{{item.type}}</span> <strong>{{item.title}}</strong>
-<em>{{item.authors}}, {{item.target}}</em>, {{item.year}} <a href="{{item.doi_link}}"><span class="badge">doi</span></a> <a href="{{item.filename}}"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a>
+<em>{{item.authors}}, {{item.target}}</em>, {{item.year}} 
+{% if item.doi_link != nil %}<a href="{{item.doi_link}}"><span class="badge">doi</span></a>{%endif%}
+{% if item.filename != nil %}<a href="{{item.filename}}"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a>{% endif %}
 </p>
 </div>
 {% endif %}
