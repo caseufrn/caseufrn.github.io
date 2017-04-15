@@ -1,0 +1,16 @@
+<div >
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h4 class="panel-title">{{include.title}}</h4>
+		</div>
+		<div class="panel-body">
+			<div class="row">
+{% for item in include.data %}
+				<div class="col-xs-6 col-sm-3 col-md-2">
+					<img src="{{item.img}}" class="img-responsive">
+					<h4><a href="{{item.url}}" target="blank">{{item.name}}</a><br><small>{{item.desc}}</small></h4>
+				</div>
+{% endfor%}
+			</div>
+		</div>
+	</div>

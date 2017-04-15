@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar
 title: "Publications"
 
 years:
@@ -18,7 +18,7 @@ years:
 
 <div class="panel panel-default">
 <div class="panel-heading">
-      <h4 class="panel-title">{{year}}</h4>
+      <h4  data-toc-text="Year: {{year}}" class="panel-title">{{year}}</h4>
     </div>
 <div class="panel-body">
 {% for item in site.data.publications %}

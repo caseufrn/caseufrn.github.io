@@ -1,3 +1,5 @@
 year,type,title,authors,target,doi_link,filename
 2015,journal,Safe Evolution Templates for Software Product Lines,"NEVES, L. ; BORBA, PAULO ; ALVES, V. R. ; TURNES, L. ; TEIXEIRA, L. ; SENA, D. S. ; KULESZA, U.",The Journal of Systems and Software,http://doi.org/10.1016/j.jss.2015.04.024,
 2016,journal,A Framework for Evaluating the Results of the SZZ Approach for Identifying Bug-Introducing Changes,"ALENCAR DA COSTA, DANIEL ; MCINTOSH, SHANE ; SHANG, WEIYI ; KULESZA, UIRA ; Coelho, Roberta ; HASSAN, AHMED ",IEEE Transactions on Software Engineering,http://dx.doi.org/10.1109/TSE.2016.2616306,
+2016,journal,Software product lines traceability: A systematic mapping study,"VALE, TASSIO ; DE ALMEIDA, EDUARDO SANTANA ; ALVES, VANDER ; Kulesza, Uirá ; NIU, NAN ; DE LIMA, RICARDO",Information and Software Technology,http://dx.doi.org/10.1016/j.infsof.2016.12.004,
+2016,conference,Integrated Analysis of Exception Flows and Handler Actions in Java Libraries: An Empirical Study,"SENA, D. ; COELHO, R. S. ; KULESZA, U. ",30th ACM Symposium on Applied Computing (SAC 2016),,
