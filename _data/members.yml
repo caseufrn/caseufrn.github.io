@@ -8,75 +8,75 @@ faculty:
 phdstudent:
 - name: "Name Phd Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Phd Studen at PPGSC - UFRN"
 
 - name: "Name Phd Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Phd Studen at PPGSC - UFRN"
 
 - name: "Name Phd Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Phd Studen at PPGSC - UFRN"
 
 - name: "Name Phd Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Phd Studen at PPGSC - UFRN"
 
 mscstudent:
 - name: "Name Msc Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Msc Studen at PPGSC - UFRN"
 
 - name: "Name Msc Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Msc Studen at PPGSC - UFRN"
 
 - name: "Name Msc Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Msc Studen at PPGSC - UFRN"
 
 undergrad:
 - name: "Name Undergrad Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Undergrad Studen at DIMAP - UFRN"
 
 - name: "Name Undergrad Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Undergrad Studen at DIMAP - UFRN"
 
 - name: "Name Undergrad Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Undergrad Studen at DIMAP - UFRN"
 
 - name: "Name Undergrad Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Undergrad Studen at DIMAP - UFRN"
 
 alumini:
 - name: "Name Alumini Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Alumini, etc."
 
 - name: "Name Alumini Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Alumini, etc."
 
 - name: "Name Alumini Student"
   img: "default.png"
-  url: "http://url"
+  url: "#"
   desc: "Alumini, etc."
 
 
