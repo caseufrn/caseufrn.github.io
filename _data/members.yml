@@ -1,0 +1,82 @@
+# Members
+faculty:
+- name: "Uirá Kulesza"
+  img: "uira.kulesza.jpg"
+  url: "http://www.dimap.ufrn.br/~uira/"
+  desc: "Associate Professor, DIMAp, CCET, UFRN (2008-)"
+
+phdstudent:
+- name: "Name Phd Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Phd Studen at PPGSC - UFRN"
+
+- name: "Name Phd Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Phd Studen at PPGSC - UFRN"
+
+- name: "Name Phd Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Phd Studen at PPGSC - UFRN"
+
+- name: "Name Phd Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Phd Studen at PPGSC - UFRN"
+
+mscstudent:
+- name: "Name Msc Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Msc Studen at PPGSC - UFRN"
+
+- name: "Name Msc Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Msc Studen at PPGSC - UFRN"
+
+- name: "Name Msc Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Msc Studen at PPGSC - UFRN"
+
+undergrad:
+- name: "Name Undergrad Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Undergrad Studen at DIMAP - UFRN"
+
+- name: "Name Undergrad Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Undergrad Studen at DIMAP - UFRN"
+
+- name: "Name Undergrad Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Undergrad Studen at DIMAP - UFRN"
+
+- name: "Name Undergrad Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Undergrad Studen at DIMAP - UFRN"
+
+alumini:
+- name: "Name Alumini Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Alumini, etc."
+
+- name: "Name Alumini Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Alumini, etc."
+
+- name: "Name Alumini Student"
+  img: "default.png"
+  url: "http://url"
+  desc: "Alumini, etc."
+
+
