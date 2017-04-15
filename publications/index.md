@@ -1,5 +1,5 @@
 ---
-layout: sidebar
+layout: toc
 title: "Publications"
 
 years:
