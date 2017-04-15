@@ -1,26 +1,50 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Blog Post](http://startbootstrap.com/template-overviews/blog-post/)
+# jekyll-bootstrap-theme
 
-[Blog Post](http://startbootstrap.com/template-overviews/blog-post/) is a basic blog post HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Jekyll theme w/ Bootstrap; see a live demo @ [`henrythemes.github.io/jekyll-bootstrap-theme` »](http://henrythemes.github.io/jekyll-bootstrap-theme)
 
-## Getting Started
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+Note: The theme uses the bootstrap sass/scss (source) version
+letting you change (override) all bootstrap css variables.
 
-## Bugs and Issues
+Example:
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-blog-post/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/blog-post/).
+~~~
+tbd
+~~~
 
-## Creator
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Note: GitHub Pages has built-in support for sass/scss, thus, your static
+site will result in a single all-in-one-file stylesheet, that is, `style.css`.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-## Copyright and License
+## Build & Update Notes
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-blog-post/blob/gh-pages/LICENSE) license.
+- Get a copy of the [`bootstrap-sass`](https://github.com/twbs/bootstrap-sass)
+  archive - the official Sass port of Bootstrap
+
+tbd
+
+
+
+
+## Alternative Jekyll Themes
+
+- [Shiori](https://github.com/ellekasai/shiori) by Elle Kasai
+  (ships w/ pre-defined color themes e.g. Dark, Turquoise, Green, Blue, Purple, Orange, Red)
+
+
+
+### More Themes
+
+See the [Dr. Jekyll's Themes](https://drjekyllthemes.github.io) directory.
+
+### More Quick Starter Wizard Scripts
+
+See the [Mr. Hyde's Scripts](https://github.com/mrhydescripts/scripts) library.
+
+
+## Questions? Comments?
+
+Send them along to the [wwwmake forum](http://groups.google.com/group/wwwmake).
+Thanks!
