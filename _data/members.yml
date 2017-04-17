@@ -2,81 +2,30 @@
 faculty:
 - name: "Uirá Kulesza"
   img: "uira.kulesza.jpg"
+  email: "uira@dimap.ufrn.br"
   url: "http://www.dimap.ufrn.br/~uira/"
   desc: "Associate Professor, DIMAp, CCET, UFRN (2008-)"
 
 phdstudent:
-- name: "Name Phd Student"
-  img: "default.png"
-  url: "#"
-  desc: "Phd Studen at PPGSC - UFRN"
+- name: "Edmilson Barbalho Campos Neto"
+  img: "edmilson.neto.jpg"
+  email: "edmilson.campos@ifrn.edu.br"
+  since: "jul/2013"
+  url: "http://edmilsoncampos.net"
+  desc: "Phd Student at PPGSC - UFRN"
 
-- name: "Name Phd Student"
-  img: "default.png"
-  url: "#"
-  desc: "Phd Studen at PPGSC - UFRN"
+- name: "Rodrigo Rebouças de Almeida"
+  img: "rodrigo.reboucas.jpg"
+  email: "rodrigor@ppgsc.ufrn.br"
+  since: "fev/2017"
+  url: "http://rodrigor.com"
+  desc: "Phd Student at PPGSC - UFRN"
 
-- name: "Name Phd Student"
-  img: "default.png"
-  url: "#"
-  desc: "Phd Studen at PPGSC - UFRN"
-
-- name: "Name Phd Student"
-  img: "default.png"
-  url: "#"
-  desc: "Phd Studen at PPGSC - UFRN"
 
 mscstudent:
-- name: "Name Msc Student"
-  img: "default.png"
-  url: "#"
-  desc: "Msc Studen at PPGSC - UFRN"
 
-- name: "Name Msc Student"
-  img: "default.png"
-  url: "#"
-  desc: "Msc Studen at PPGSC - UFRN"
-
-- name: "Name Msc Student"
-  img: "default.png"
-  url: "#"
-  desc: "Msc Studen at PPGSC - UFRN"
 
 undergrad:
-- name: "Name Undergrad Student"
-  img: "default.png"
-  url: "#"
-  desc: "Undergrad Studen at DIMAP - UFRN"
 
-- name: "Name Undergrad Student"
-  img: "default.png"
-  url: "#"
-  desc: "Undergrad Studen at DIMAP - UFRN"
-
-- name: "Name Undergrad Student"
-  img: "default.png"
-  url: "#"
-  desc: "Undergrad Studen at DIMAP - UFRN"
-
-- name: "Name Undergrad Student"
-  img: "default.png"
-  url: "#"
-  desc: "Undergrad Studen at DIMAP - UFRN"
 
 alumini:
-- name: "Name Alumini Student"
-  img: "default.png"
-  url: "#"
-  desc: "Alumini, etc."
-
-- name: "Name Alumini Student"
-  img: "default.png"
-  url: "#"
-  desc: "Alumini, etc."
-
-- name: "Name Alumini Student"
-  img: "default.png"
-  url: "#"
-  desc: "Alumini, etc."
-
-
