@@ -23,6 +23,13 @@ phdstudent:
 
 
 mscstudent:
+- name: "Leo Moreira Silva"
+  img: "leo.silva.jpg"
+  email: "leo.moreira@me.com"
+  since: "fev/2015"
+  url: "#"
+  desc: "MSc Student at PPGSC - UFRN"
+
 
 
 undergrad:
