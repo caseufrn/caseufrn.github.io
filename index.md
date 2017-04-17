@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: landpage
 title:  'A.S.E'
+twitter: aseufrn
+news_title: 'News'
 ---
 
 ## Automated Software Engineering (ASE) - Lab and Research Group
