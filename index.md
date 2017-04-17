@@ -1,5 +1,6 @@
 ---
 layout: landpage
+permalink: /index
 title:  'A.S.E'
 twitter: aseufrn
 news_title: 'News'
