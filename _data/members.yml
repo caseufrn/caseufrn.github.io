@@ -3,8 +3,9 @@ faculty:
 - name: "Uirá Kulesza"
   img: "uira.kulesza.jpg"
   email: "uira@dimap.ufrn.br"
+  since: "2008"
   url: "http://www.dimap.ufrn.br/~uira/"
-  desc: "Associate Professor, DIMAp, CCET, UFRN (2008-)"
+  desc: "Associate Professor, DIMAp, CCET, UFRN"
 
 phdstudent:
 - name: "Edmilson Barbalho Campos Neto"
