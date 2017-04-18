@@ -8,7 +8,7 @@
 {% for item in include.data %}
 				<div class="col-xs-6 col-sm-3 col-md-2" align="center">
 					<img src="{{item.img}}" class="img-responsive">
-					<h5 data-toc-skip><a href="{{item.url}}" target="blank">{{item.name}}</a><br>{% if item.email != nil %}<small><a href="mailto:{{item.email}}">{{item.email}}</a></small><br>{% endif %}<small>{{item.desc}}<br>(since {{item.since}}{% if item.end != nil %}{{item.end}}{%endif%})</small></h5>
+					<h5 data-toc-skip><a href="{{item.url}}" target="blank">{{item.name}}</a><br>{% if item.email != nil %}<small><a href="mailto:{{item.email}}">{{item.email}}</a></small><br>{% endif %}<small>{{item.desc}}<br>({{item.since}} - {% if item.until != nil %}{{item.until}}{%endif%})</small></h5>
 				</div>
 {% endfor%}
 			</div>
