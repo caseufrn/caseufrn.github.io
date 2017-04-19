@@ -3,21 +3,18 @@ faculty:
 - name: "Uirá Kulesza"
   img: "uira.kulesza.jpg"
   email: "uira@dimap.ufrn.br"
-  since: "2008"
   url: "http://www.dimap.ufrn.br/~uira/"
   desc: "Associate Professor, DIMAp, CCET, UFRN"
 
 - name: "Felipe Alves Pereira Pinto"
   img: "felipe.alves.jpg"
   email: "felipe.pinto@ifrn.edu.br"
-  since: "2015"
   url: "#"
   desc: "Lecturer, IFRN"
 
 - name: "Marília Aranha Freire"
   img: "marilia.freire.jpg"
   email: "marilia.freire@ifrn.edu.br"
-  since: "2015"
   url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
   desc: "Lecturer, IFRN"
 
@@ -38,21 +35,19 @@ phdstudent:
 
 
 mscstudent:
+- name: "João Helis Junior de Azevedo Bernardo"
+  img: "joao.helis.jpg"
+  email: "joaohelis@ppgsc.ufrn.br"
+  since: "jul/2015"
+  url: "http://joaohelis.com"
+  desc: "MSc Student at PPGSC / UFRN"
+  
 - name: "Leo Moreira Silva"
   img: "leo.silva.jpg"
   email: "leo.moreira@me.com"
   since: "fev/2015"
   url: "#"
   desc: "MSc Student at PPGSC - UFRN"
-
-- name: "João Helis Junior de Azevedo Bernardo"
-  img: "joao.helis.jpg"
-  email: "joaohelis@ppgsc.ufrn.br"
-  since: "jul/2015"
-  until: "jul/2017"
-  url: "http://joaohelis.com"
-  desc: "MSc Student at PPGSC / UFRN"
-
 
 
 undergrad:
