@@ -5,7 +5,7 @@
 <div class="panel-body">
     <table class="table table-responsive table-condensed table-hover">
         {% for item in site.data.theses %}
-        {%if item.type == {{include.type}} %}
+        {%if item.type == include.type %}
         <tr>
             <td> <small><a href="{{item.link}}" target="_blank"><strong>{{item.title}}</strong></a></small>, <small>{{item.student}}, {{item.advisor}}, {{item.year}}</small></td>
             <td>{% if item.filename != nil %}<a href="{{item.filename}}" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a>{% endif %}&nbsp;</td>
