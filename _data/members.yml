@@ -12,14 +12,14 @@ faculty:
   email: "felipe.pinto@ifrn.edu.br"
   since: "2015"
   url: "#"
-  desc: "PhD"
+  desc: "Lecturer, IFRN"
 
 - name: "Marília Aranha Freire"
   img: "marilia.freire.jpg"
   email: "marilia.freire@ifrn.edu.br"
   since: "2015"
   url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
-  desc: "PhD"
+  desc: "Lecturer, IFRN"
 
 phdstudent:
 - name: "Edmilson Barbalho Campos Neto"
@@ -45,21 +45,13 @@ mscstudent:
   url: "#"
   desc: "MSc Student at PPGSC - UFRN"
 
-- name: "Jadson José dos Santos"
-  img: "jadson.santos.jpg"
-  email: "jadsonjs@gmail.com"
-  since: "fev/2013"
-  until: "fev/2016"
-  url: "http://github.com/jadsonjs"
-  desc: "MSc at PPGSC / UFRN"
-
 - name: "João Helis Junior de Azevedo Bernardo"
   img: "joao.helis.jpg"
   email: "joaohelis@ppgsc.ufrn.br"
   since: "jul/2015"
   until: "jul/2017"
   url: "http://joaohelis.com"
-  desc: "MSc at PPGSC / UFRN"
+  desc: "MSc Student at PPGSC / UFRN"
 
 
 
@@ -73,4 +65,12 @@ alumini:
   since: "mar/2013"
   until: "fev/2017"
   url: "http://danielcalencar.github.io"
-  desc: "PhD alumini"
+  desc: "PhD at PPGSC / UFRN"
+  
+  name: "Jadson José dos Santos"
+  img: "jadson.santos.jpg"
+  email: "jadsonjs@gmail.com"
+  since: "fev/2013"
+  until: "fev/2016"
+  url: "http://github.com/jadsonjs"
+  desc: "MSc at PPGSC / UFRN"
