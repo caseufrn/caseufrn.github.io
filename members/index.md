@@ -13,4 +13,4 @@ title: "Members"
 
 {% include membersection.html title="Undergrad Students" data=site.data.members.undergrad %}
 
-{% include membersection.html title="Alumini" data=site.data.members.alumini %}
+{% include membersection.html title="Alumni" data=site.data.members.alumini %}
