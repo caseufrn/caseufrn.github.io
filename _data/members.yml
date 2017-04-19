@@ -7,6 +7,20 @@ faculty:
   url: "http://www.dimap.ufrn.br/~uira/"
   desc: "Associate Professor, DIMAp, CCET, UFRN"
 
+- name: "Felipe Alves Pereira Pinto"
+  img: "felipe.alves.jpg"
+  email: "felipe.pinto@ifrn.edu.br"
+  since: "2015"
+  url: "#"
+  desc: "PhD"
+
+- name: "Marília Aranha Freire"
+  img: "marilia.freire.jpg"
+  email: "marilia.freire@ifrn.edu.br"
+  since: "2015"
+  url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
+  desc: "PhD"
+
 phdstudent:
 - name: "Edmilson Barbalho Campos Neto"
   img: "edmilson.neto.jpg"
@@ -53,3 +67,10 @@ undergrad:
 
 
 alumini:
+- name: "Daniel Alencar da Costa"
+  img: "daniel.costa.jpg"
+  email: "daniel.calencar@gmail.com"
+  since: "mar/2013"
+  until: "fev/2017"
+  url: "http://danielcalencar.github.io"
+  desc: "PhD alumini"
