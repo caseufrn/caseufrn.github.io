@@ -26,6 +26,14 @@ phdstudent:
   url: "http://edmilsoncampos.net"
   desc: "Phd Student at PPGSC - UFRN"
 
+- name: "Gustavo Sizílio Nery"
+  img: "gustavo.sizilio.jpg"
+  email: "gustavo.sizilio@ifrn.edu.br"
+  since: "jul/2015"
+  url: "#"
+  desc: "Phd Student at PPGSC - UFRN"
+
+
 - name: "Rodrigo Rebouças de Almeida"
   img: "rodrigo.reboucas.jpg"
   email: "rodrigor@ppgsc.ufrn.br"
