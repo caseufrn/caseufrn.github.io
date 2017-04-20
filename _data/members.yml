@@ -43,6 +43,7 @@ phdstudent:
 
 
 mscstudent:
+
 - name: "João Helis Junior de Azevedo Bernardo"
   img: "joao.helis.jpg"
   email: "joaohelis@ppgsc.ufrn.br"
@@ -77,3 +78,12 @@ alumini:
   until: "fev/2016"
   url: "http://github.com/jadsonjs"
   desc: "MSc at PPGSC / UFRN"
+
+- name: "Adorilson Bezerra"
+  img: "adorilson.bezerra.jpg"
+  email: "adorilson@ppgsc.ufrn.br"
+  since: "ago/2014"
+  until: "fev/2017"
+  url: "http://docente.ifrn.edu.br/adorilsonbezerra"
+  desc: "MSc at PPGSC / UFRN"
+  
