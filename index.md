@@ -2,7 +2,7 @@
 layout: landpage
 permalink: /index
 title:  'A.S.E'
-twitter: aseufrn
+twitter: caseufrn
 news_title: 'News'
 ---
 
