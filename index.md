@@ -20,6 +20,6 @@ Our mission is to develop, apply and evaluate collaborative and automated method
 Our main research interests are currently software evolution, software architectures (development and evaluation), mining software repositories and software product line engineering. 
 </p>
 <p>
-The CASE Lab is located at Digital Metropolis Institute (IMD), UFRN.
+The CASE Lab is located at Digital Metropolis Institute (IMD), UFRN.<br/>
 </p>
 </div>
