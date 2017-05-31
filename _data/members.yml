@@ -18,6 +18,13 @@ faculty:
   url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
   desc: "Lecturer, IFRN"
 
+- name: "Felipe Araújo Aleixo"
+  img: "felipe.aleixo.jpg"
+  email: "felipe.aleixo@ifrn.edu.br"
+  url: "http://diatinf.ifrn.edu.br/prof/doku.php?id=user:1301182"
+  desc: "Lecturer, IFRN"
+
+
 phdstudent:
 - name: "Edmilson Barbalho Campos Neto"
   img: "edmilson.neto.jpg"
