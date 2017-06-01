@@ -10,19 +10,19 @@ faculty:
   img: "felipe.alves.jpg"
   email: "felipe.pinto@ifrn.edu.br"
   url: "#"
-  desc: "Lecturer, IFRN"
+  desc: "Assistant professor, IFRN"
 
 - name: "Marília Aranha Freire"
   img: "marilia.freire.jpg"
   email: "marilia.freire@ifrn.edu.br"
   url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
-  desc: "Lecturer, IFRN"
+  desc: "Assistant professor, IFRN"
 
 - name: "Fellipe Araújo Aleixo"
   img: "fellipe.aleixo.png"
   email: "felipe.aleixo@ifrn.edu.br"
   url: "http://diatinf.ifrn.edu.br/prof/doku.php?id=user:1301182"
-  desc: "Lecturer, IFRN"
+  desc: "Assistant professor, IFRN"
 
 
 phdstudent:
@@ -93,4 +93,23 @@ alumini:
   until: "fev/2017"
   url: "http://docente.ifrn.edu.br/adorilsonbezerra"
   desc: "MSc at PPGSC / UFRN"
+
+
+- name: "Felipe Alves Pereira Pinto"
+  img: "felipe.alves.jpg"
+  email: "felipe.pinto@ifrn.edu.br"
+  url: "#"
+  desc: "PhD at PPGSC / UFRN"
+
+- name: "Marília Aranha Freire"
+  img: "marilia.freire.jpg"
+  email: "marilia.freire@ifrn.edu.br"
+  url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
+  desc: "PhD at PPGSC / UFRN"
+
+- name: "Fellipe Araújo Aleixo"
+  img: "fellipe.aleixo.png"
+  email: "felipe.aleixo@ifrn.edu.br"
+  url: "http://diatinf.ifrn.edu.br/prof/doku.php?id=user:1301182"
+  desc: "PhD at PPGSC / UFRN"
   

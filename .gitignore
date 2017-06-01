@@ -1,4 +1,14 @@
-
 .DS_Store
+_site/
 
-_site
+_site/index.html
+
+_site/theses/index.html
+
+_site/publications/index.html
+
+_site/projects.html
+
+_site/partners.html
+
+_site/members/index.html
