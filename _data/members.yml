@@ -6,10 +6,28 @@ faculty:
   url: "https://scholar.google.com/citations?user=-lb3qmgAAAAJ"
   desc: "Associate Professor, DIMAp, UFRN"
 
+- name: "Eduardo Henrique da Silva Aranha"
+  img: "eduardo.aranha.png"
+  email: "eduardoaranha@dimap.ufrn.br"
+  url: "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1671962"
+  desc: "Associate Professor, DIMAp, UFRN"
+
+- name: "Roberta De Souza Coelho"
+  img: "roberta.coelho.png"
+  email: "roberta@dimap.ufrn.br"
+  url: "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1709820"
+  desc: "Associate Professor, DIMAp, UFRN"
+
 - name: "Felipe Alves Pereira Pinto"
   img: "felipe.alves.jpg"
   email: "felipe.pinto@ifrn.edu.br"
   url: "#"
+  desc: "Assistant professor, IFRN"
+
+- name: "Fellipe Araújo Aleixo"
+  img: "fellipe.aleixo.png"
+  email: "felipe.aleixo@ifrn.edu.br"
+  url: "http://diatinf.ifrn.edu.br/prof/doku.php?id=user:1301182"
   desc: "Assistant professor, IFRN"
 
 - name: "Marília Aranha Freire"
@@ -18,11 +36,6 @@ faculty:
   url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
   desc: "Assistant professor, IFRN"
 
-- name: "Fellipe Araújo Aleixo"
-  img: "fellipe.aleixo.png"
-  email: "felipe.aleixo@ifrn.edu.br"
-  url: "http://diatinf.ifrn.edu.br/prof/doku.php?id=user:1301182"
-  desc: "Assistant professor, IFRN"
 
 
 phdstudent:
@@ -77,6 +90,24 @@ alumini:
   until: "fev/2017"
   url: "http://danielcalencar.github.io"
   desc: "PhD at PPGSC / UFRN"
+
+- name: "Felipe Alves Pereira Pinto"
+  img: "felipe.alves.jpg"
+  email: "felipe.pinto@ifrn.edu.br"
+  url: "#"
+  desc: "PhD at PPGSC / UFRN"
+
+- name: "Fellipe Araújo Aleixo"
+  img: "fellipe.aleixo.png"
+  email: "felipe.aleixo@ifrn.edu.br"
+  url: "http://diatinf.ifrn.edu.br/prof/doku.php?id=user:1301182"
+  desc: "PhD at PPGSC / UFRN"
+
+- name: "Marília Aranha Freire"
+  img: "marilia.freire.jpg"
+  email: "marilia.freire@ifrn.edu.br"
+  url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
+  desc: "PhD at PPGSC / UFRN"
   
 - name: "Jadson José dos Santos"
   img: "jadson.santos.jpg"
@@ -94,22 +125,4 @@ alumini:
   url: "http://docente.ifrn.edu.br/adorilsonbezerra"
   desc: "MSc at PPGSC / UFRN"
 
-
-- name: "Felipe Alves Pereira Pinto"
-  img: "felipe.alves.jpg"
-  email: "felipe.pinto@ifrn.edu.br"
-  url: "#"
-  desc: "PhD at PPGSC / UFRN"
-
-- name: "Marília Aranha Freire"
-  img: "marilia.freire.jpg"
-  email: "marilia.freire@ifrn.edu.br"
-  url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
-  desc: "PhD at PPGSC / UFRN"
-
-- name: "Fellipe Araújo Aleixo"
-  img: "fellipe.aleixo.png"
-  email: "felipe.aleixo@ifrn.edu.br"
-  url: "http://diatinf.ifrn.edu.br/prof/doku.php?id=user:1301182"
-  desc: "PhD at PPGSC / UFRN"
   
