@@ -53,6 +53,12 @@ phdstudent:
   url: "#"
   desc: "Phd Student at PPGSC - UFRN"
 
+- name: "João Helis Junior de Azevedo Bernardo"
+  img: "joao.helis.jpg"
+  email: "joaohelis@ppgsc.ufrn.br"
+  since: "ago/2017"
+  url: "http://joaohelis.com"
+  desc: "Phd Student at PPGSC - UFRN"
 
 - name: "Rodrigo Rebouças de Almeida"
   img: "rodrigo.reboucas.jpg"
@@ -63,21 +69,6 @@ phdstudent:
 
 
 mscstudent:
-
-- name: "João Helis Junior de Azevedo Bernardo"
-  img: "joao.helis.jpg"
-  email: "joaohelis@ppgsc.ufrn.br"
-  since: "jul/2015"
-  url: "http://joaohelis.com"
-  desc: "MSc Student at PPGSC / UFRN"
-  
-- name: "Leo Moreira Silva"
-  img: "leo.silva.jpg"
-  email: "leo.moreira@me.com"
-  since: "fev/2015"
-  url: "#"
-  desc: "MSc Student at PPGSC - UFRN"
-
 
 undergrad:
 
@@ -102,12 +93,20 @@ alumini:
   email: "felipe.aleixo@ifrn.edu.br"
   url: "http://diatinf.ifrn.edu.br/prof/doku.php?id=user:1301182"
   desc: "PhD at PPGSC / UFRN"
-
+ 
 - name: "Marília Aranha Freire"
   img: "marilia.freire.jpg"
   email: "marilia.freire@ifrn.edu.br"
   url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
   desc: "PhD at PPGSC / UFRN"
+  
+- name: "Adorilson Bezerra"
+  img: "adorilson.bezerra.jpg"
+  email: "adorilson@ppgsc.ufrn.br"
+  since: "ago/2014"
+  until: "fev/2017"
+  url: "http://docente.ifrn.edu.br/adorilsonbezerra"
+  desc: "MSc at PPGSC / UFRN"
   
 - name: "Jadson José dos Santos"
   img: "jadson.santos.jpg"
@@ -116,13 +115,25 @@ alumini:
   until: "fev/2016"
   url: "http://github.com/jadsonjs"
   desc: "MSc at PPGSC / UFRN"
-
-- name: "Adorilson Bezerra"
-  img: "adorilson.bezerra.jpg"
-  email: "adorilson@ppgsc.ufrn.br"
-  since: "ago/2014"
-  until: "fev/2017"
-  url: "http://docente.ifrn.edu.br/adorilsonbezerra"
+  
+- name: "João Helis Junior de Azevedo Bernardo"
+  img: "joao.helis.jpg"
+  email: "joaohelis@ppgsc.ufrn.br"
+  since: "jul/2015"
+  until: "jul/2017"
+  url: "http://joaohelis.com"
   desc: "MSc at PPGSC / UFRN"
+  
+- name: "Leo Moreira Silva"
+  img: "leo.silva.jpg"
+  email: "leo.moreira@me.com"
+  since: "fev/2015"
+  until: "jul/2017"
+  url: "http://lattes.cnpq.br/4853538472620935"
+  desc: "MSc Student at PPGSC - UFRN"
+
+
+
+
 
   
