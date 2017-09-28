@@ -11,6 +11,6 @@ type:
 
 
 <!-- Incluir projetos no arquivo projects.csv, no diretório _data -->
-{% include projectsection.html title="Current" type="current" data=site.data.projects %}
+{% include section.html title="Current" type="current" data=site.data.projects %}
 
-{% include projectsection.html title="Past" type="past" data=site.data.projects %}
+{% include section.html title="Past" type="past" data=site.data.projects %}
