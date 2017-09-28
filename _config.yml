@@ -21,6 +21,8 @@ navigation:
   url: /partners
 - title: Theses
   url: /theses
+- title: Tools & Artifacts
+  url: /tools_artifacts
 
 ########
 # more settings
