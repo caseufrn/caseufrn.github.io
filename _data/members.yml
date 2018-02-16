@@ -69,6 +69,12 @@ phdstudent:
 
 
 mscstudent:
+- name: "Guilherme Dutra Diniz de Freitas"
+  img: "guilherme.freitas.png"
+  email: "guilhermeddf@ufrn.edu.br"
+  since: "fev/2018"
+  url: "#"
+  desc: "MSc Student at PPGSC / UFRN"
 
 undergrad:
 
