@@ -59,6 +59,14 @@ phdstudent:
   since: "ago/2017"
   url: "http://joaohelis.com"
   desc: "Phd Student at PPGSC - UFRN"
+  
+- name: "Rafael Julian"
+  img: "rafael.julian.jpeg"
+  email: "rafael.jullian@gmail.com"
+  since: "fev/2018"
+  url: "https://www.linkedin.com/in/rafael-oliveira-nascimento-46b060aa"
+  desc: "Phd Student at PPGSC - UFRN"
+
 
 - name: "Rodrigo Rebouças de Almeida"
   img: "rodrigo.reboucas.jpg"
