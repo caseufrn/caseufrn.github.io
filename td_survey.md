@@ -4,7 +4,7 @@ permalink: /td_survey
 title:  'Techdebt survey'
 ---
 <p>
-<h1>Technical Debt Survey</h1>
+<h1>Technical Debt Survey - Companion website</h1>
 <p>
   Welcome!
 </p>
@@ -15,9 +15,14 @@ title:  'Techdebt survey'
 </p>
 <h2>Researchers:</h2>
 <p>
-  <b>Rodrigo Rebouças de Almeida</p>: Rodrigo is a Phd student and the responsible for the survey. He is also a lecturer at Federal University of Paraíba</br>
-  <b>Contact:</b> rodrigor at ppgsc.ufrn.br or <a href="http://rodrigor.com">http://rodrigor.com</a><br>
+  <b>Rodrigo Rebouças de Almeida</b>: Phd student at Federal University of Rio Grande do Norte, and lecturer at Federal University of Paraíba, Brazil <br>
+  <b>Contact:</b> rodrigor at ppgsc.ufrn.br / <a href="http://rodrigor.dcx.ufpb.br">http://rodrigor.dcx.ufpb.br</a>
 </p>
 <p>
-  <b>Uirá Kulesza</b>: Uirá is an associate professor at Federal University of Rio Grande do Norte</br>
+  <b>Uirá Kulesza</b>: Associate Professor of Computer Science, Federal University of Rio Grande do Norte (UFRN), DIMAp, Natal, Brazil <br>
+  <b>Contact:</b>: uirakulesza at gmail.com / <a href="http://www.dimap.ufrn.br/~uira/">http://www.dimap.ufrn.br/~uira/</a>
+</p>
+<p>
+  <b>Christoph Treude</b>: Christoph is a faculty member and an ARC DECRA Fellow in the School of Computer Science at the University of Adelaide, Australia.<br>
+  <b>Contact:</b> ctreude at gmail.com / <a href="http://ctreude.ca/">http://ctreude.ca</a>
 </p>
