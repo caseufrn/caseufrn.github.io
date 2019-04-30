@@ -4,7 +4,7 @@ permalink: /td_survey
 title:  'Techdebt survey'
 ---
 <p>
-  <a href="#" target="new"><img src="http://rodrigor.com/_media/en/survey-print.png"  style="border-style: solid;"></a>
+  <a href="#" target="new"   style="border-style: solid;border-width: 1px;"><img src="http://rodrigor.com/_media/en/survey-print.png"  style="border-style: solid;"></a>
 <h1>Technical Debt Survey - Companion website</h1>
 <p>
   Welcome!
