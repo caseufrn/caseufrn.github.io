@@ -4,6 +4,7 @@ permalink: /td_survey
 title:  'Techdebt survey'
 ---
 <p>
+  <a href="#"><img src="http://rodrigor.com/_media/en/survey-print.png" border="1" align="right"></a>
 <h1>Technical Debt Survey - Companion website</h1>
 <p>
   Welcome!
@@ -26,3 +27,7 @@ title:  'Techdebt survey'
   <b>Christoph Treude</b>: Christoph is a faculty member and an ARC DECRA Fellow in the School of Computer Science at the University of Adelaide, Australia.<br>
   <b>Contact:</b> ctreude at gmail.com / <a href="http://ctreude.ca/">http://ctreude.ca</a>
 </p>
+<p>
+<img src="http://rodrigor.com/_media/en/survey-top.png" border="0" align="center">
+</p>
+
