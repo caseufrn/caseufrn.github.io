@@ -53,14 +53,6 @@ phdstudent:
   url: "http://docente.ifrn.edu.br/docente/elieziosoares"
   desc: "Phd Student at PPGSC - UFRN"
 
-
-- name: "Edmilson Barbalho Campos Neto"
-  img: "edmilson.neto.jpg"
-  email: "edmilson.campos@ifrn.edu.br"
-  since: "jul/2013"
-  url: "http://edmilsoncampos.net"
-  desc: "Phd Student at PPGSC - UFRN"
-
 - name: "Gustavo Sizílio Nery"
   img: "gustavo.sizilio.jpg"
   email: "gustavo.sizilio@ifrn.edu.br"
@@ -128,6 +120,15 @@ alumini:
   email: "demostenes.sena@ifrn.edu.br"
   url: "#"
   desc: "PhD at PPGSC / UFRN"
+
+
+  - name: "Edmilson Barbalho Campos Neto"
+    img: "edmilson.neto.jpg"
+    email: "edmilson.campos@ifrn.edu.br"
+    since: "jul/2013"
+    until: "2018"
+    url: "http://edmilsoncampos.net"
+    desc: "Phd at PPGSC - UFRN"
 
 - name: "Felipe Alves Pereira Pinto"
   img: "felipe.alves.jpg"
