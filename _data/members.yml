@@ -74,8 +74,8 @@ phdstudent:
   since: "ago/2017"
   url: "http://joaohelis.com"
   desc: "Phd Student at PPGSC - UFRN"
-  
-name: "Marcelo Rômulo Fernandes"
+
+- name: "Marcelo Rômulo Fernandes"
   img: "marcelo.fernandes.jpg"
   email: "marcelo.fernandes@ifrn.edu.br"
   since: "dez/2018"
@@ -140,13 +140,13 @@ alumini:
   email: "felipe.aleixo@ifrn.edu.br"
   url: "http://diatinf.ifrn.edu.br/prof/doku.php?id=user:1301182"
   desc: "PhD at PPGSC / UFRN"
- 
+
 - name: "Marília Aranha Freire"
   img: "marilia.freire.jpg"
   email: "marilia.freire@ifrn.edu.br"
   url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
   desc: "PhD at PPGSC / UFRN"
-  
+
 - name: "Adorilson Bezerra"
   img: "adorilson.bezerra.jpg"
   email: "adorilson@ppgsc.ufrn.br"
@@ -154,7 +154,7 @@ alumini:
   until: "fev/2017"
   url: "http://docente.ifrn.edu.br/adorilsonbezerra"
   desc: "MSc at PPGSC / UFRN"
-  
+
 - name: "Jadson José dos Santos"
   img: "jadson.santos.jpg"
   email: "jadsonjs@gmail.com"
@@ -162,7 +162,7 @@ alumini:
   until: "fev/2016"
   url: "http://github.com/jadsonjs"
   desc: "MSc at PPGSC / UFRN"
-  
+
 - name: "João Helis Junior de Azevedo Bernardo"
   img: "joao.helis.jpg"
   email: "joaohelis@ppgsc.ufrn.br"
@@ -170,7 +170,7 @@ alumini:
   until: "jul/2017"
   url: "http://joaohelis.com"
   desc: "MSc at PPGSC / UFRN"
-  
+
 - name: "Leo Moreira Silva"
   img: "leo.silva.jpg"
   email: "leo.moreira@me.com"
@@ -178,4 +178,3 @@ alumini:
   until: "jul/2017"
   url: "http://lattes.cnpq.br/4853538472620935"
   desc: "MSc Student at PPGSC - UFRN"
-
