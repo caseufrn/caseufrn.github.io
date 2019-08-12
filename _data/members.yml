@@ -75,6 +75,14 @@ phdstudent:
   url: "http://joaohelis.com"
   desc: "Phd Student at PPGSC - UFRN"
   
+name: "Marcelo Rômulo Fernandes"
+  img: "marcelo.fernandes.jpg"
+  email: "marcelo.fernandes@ifrn.edu.br"
+  since: "dez/2018"
+  url: "#"
+  desc: "Phd Student at PPGSC - UFRN"
+  
+
 - name: "Rafael Julian"
   img: "rafael.julian.jpg"
   email: "rafael.jullian@gmail.com"
