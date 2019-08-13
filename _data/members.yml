@@ -101,9 +101,16 @@ undergrad:
 - name: "Euchais Vieira Duarte"
   img: "euchais.duarte.jpg"
   email: "eucharles.ntd@gmail.com"
-  since: "fev/2018"
+  since: "jul/2019"
   url: "#"
-  desc: "MSc Student at PPGSC / UFRN"
+  desc: "Undergrad student"
+
+- name: "Rafael do Nascimento Ribeiro"
+  img: "rafael.ribeiro.jpg"
+  email: "rafaelnribeiro@outlook.com"
+  since: "jul/2019"
+  url: "#"
+  desc: "Undergrad student"
 
 
 alumini:
@@ -122,13 +129,13 @@ alumini:
   desc: "PhD at PPGSC / UFRN"
 
 
-  - name: "Edmilson Barbalho Campos Neto"
-    img: "edmilson.neto.jpg"
-    email: "edmilson.campos@ifrn.edu.br"
-    since: "jul/2013"
-    until: "2018"
-    url: "http://edmilsoncampos.net"
-    desc: "Phd at PPGSC - UFRN"
+- name: "Edmilson Barbalho Campos Neto"
+  img: "edmilson.neto.jpg"
+  email: "edmilson.campos@ifrn.edu.br"
+  since: "jul/2013"
+  until: "2018"
+  url: "http://edmilsoncampos.net"
+  desc: "Phd at PPGSC - UFRN"
 
 - name: "Felipe Alves Pereira Pinto"
   img: "felipe.alves.jpg"
