@@ -39,13 +39,6 @@ faculty:
 
 
 phdstudent:
-- name: "José Diego Saraiva da Silva"
-  img: "diego.saraiva.jpg"
-  email: "diegosaraiva@gmail.com"
-  since: "jan/2018"
-  url: "#"
-  desc: "Phd Student at PPGSC - UFRN"
-
 - name: "Eliezio Soares de Sousa Neto"
   img: "eliezio.soares.jpg"
   email: "elieziosoares@gmail.com"
@@ -65,6 +58,13 @@ phdstudent:
   email: "joaohelis@ppgsc.ufrn.br"
   since: "ago/2017"
   url: "http://joaohelis.com"
+  desc: "Phd Student at PPGSC - UFRN"
+
+- name: "José Diego Saraiva da Silva"
+  img: "diego.saraiva.jpg"
+  email: "diegosaraiva@gmail.com"
+  since: "jan/2018"
+  url: "#"
   desc: "Phd Student at PPGSC - UFRN"
 
 - name: "Marcelo Rômulo Fernandes"
