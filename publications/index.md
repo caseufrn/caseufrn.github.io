@@ -3,6 +3,7 @@ layout: default
 title: "Publications"
 
 years:
+ - '2019'
  - '2018'
  - '2017'
  - '2016'
