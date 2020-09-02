@@ -86,12 +86,12 @@ phdstudent:
   url: "http://github.com/jadsonjs"
   desc: "Phd Student at PPGSC / UFRN"
 
-- name: "Rafael Julian"
-  img: "rafael.julian.jpg"
-  email: "rafael.jullian@gmail.com"
-  since: "fev/2018"
-  url: "https://www.linkedin.com/in/rafael-oliveira-nascimento-46b060aa"
-  desc: "Phd Student at PPGSC - UFRN"
+#- name: "Rafael Julian"
+#  img: "rafael.julian.jpg"
+#  email: "rafael.jullian@gmail.com"
+#  since: "fev/2018"
+#  url: "https://www.linkedin.com/in/rafael-oliveira-nascimento-46b060aa"
+#  desc: "Phd Student at PPGSC - UFRN"
 
 
 mscstudent:
@@ -117,10 +117,19 @@ undergrad:
 
 alumini:
 
+- name: "Gustavo Sizílio Nery"
+  img: "gustavo.sizilio.jpg"
+  email: "gustavo.sizilio@ifrn.edu.br"
+  since: "#"
+  until: "fev/2020"
+  url: "#"
+  desc: "PhD at PPGSC / UFRN"
+
 - name: "Guilherme Dutra Diniz de Freitas"
   img: "guilherme.freitas.png"
   email: "guilhermeddf@ufrn.edu.br"
   since: "fev/2018"
+  until: "mar/2020"
   url: "#"
   desc: "MSc Student at PPGSC / UFRN"
 
