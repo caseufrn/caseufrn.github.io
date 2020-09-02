@@ -18,39 +18,37 @@ faculty:
   url: "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1709820"
   desc: "Associate Professor, DIMAp, UFRN"
 
+- name: "Daniel Alencar da Costa"
+  img: "daniel.costa.jpg"
+  email: "daniel.calencar@gmail.com"
+  since: "mar/2013"
+  until: "fev/2017"
+  url: "http://danielcalencar.github.io"
+  desc: "Lecturer at the Information Science Department, University of Otago"
+
 - name: "Felipe Alves Pereira Pinto"
   img: "felipe.alves.jpg"
   email: "felipe.pinto@ifrn.edu.br"
   url: "#"
   desc: "Assistant professor, IFRN"
 
-- name: "Fellipe Araújo Aleixo"
-  img: "fellipe.aleixo.png"
-  email: "felipe.aleixo@ifrn.edu.br"
-  url: "http://diatinf.ifrn.edu.br/prof/doku.php?id=user:1301182"
+- name: "Gustavo Sizílio Nery"
+  img: "gustavo.sizilio.jpg"
+  email: "gustavo.sizilio@ifrn.edu.br"
+  url: "#"
   desc: "Assistant professor, IFRN"
 
-- name: "Marília Aranha Freire"
-  img: "marilia.freire.jpg"
-  email: "marilia.freire@ifrn.edu.br"
-  url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
-  desc: "Assistant professor, IFRN"
+
 
 
 
 phdstudent:
+
 - name: "Eliezio Soares de Sousa Neto"
   img: "eliezio.soares.jpg"
   email: "elieziosoares@gmail.com"
   since: "jul/2013"
   url: "http://docente.ifrn.edu.br/docente/elieziosoares"
-  desc: "Phd Student at PPGSC - UFRN"
-
-- name: "Gustavo Sizílio Nery"
-  img: "gustavo.sizilio.jpg"
-  email: "gustavo.sizilio@ifrn.edu.br"
-  since: "jul/2015"
-  url: "#"
   desc: "Phd Student at PPGSC - UFRN"
 
 - name: "João Helis Junior de Azevedo Bernardo"
@@ -74,13 +72,6 @@ phdstudent:
   url: "#"
   desc: "Phd Student at PPGSC - UFRN"
 
-- name: "Rafael Julian"
-  img: "rafael.julian.jpg"
-  email: "rafael.jullian@gmail.com"
-  since: "fev/2018"
-  url: "https://www.linkedin.com/in/rafael-oliveira-nascimento-46b060aa"
-  desc: "Phd Student at PPGSC - UFRN"
-
 - name: "Rodrigo Rebouças de Almeida"
   img: "rodrigo.reboucas.jpg"
   email: "rodrigor@ppgsc.ufrn.br"
@@ -88,16 +79,27 @@ phdstudent:
   url: "http://rodrigor.com"
   desc: "Phd Student at PPGSC - UFRN"
 
+- name: "Jadson José dos Santos"
+  img: "jadson.santos.jpg"
+  email: "jadsonjs@gmail.com"
+  since: "ago/2019"
+  url: "http://github.com/jadsonjs"
+  desc: "Phd Student at PPGSC / UFRN"
+
+- name: "Rafael Julian"
+  img: "rafael.julian.jpg"
+  email: "rafael.jullian@gmail.com"
+  since: "fev/2018"
+  url: "https://www.linkedin.com/in/rafael-oliveira-nascimento-46b060aa"
+  desc: "Phd Student at PPGSC - UFRN"
+
 
 mscstudent:
-- name: "Guilherme Dutra Diniz de Freitas"
-  img: "guilherme.freitas.png"
-  email: "guilhermeddf@ufrn.edu.br"
-  since: "fev/2018"
-  url: "#"
-  desc: "MSc Student at PPGSC / UFRN"
+
+
 
 undergrad:
+
 - name: "Euchais Vieira Duarte"
   img: "euchais.duarte.jpg"
   email: "eucharles.ntd@gmail.com"
@@ -114,13 +116,13 @@ undergrad:
 
 
 alumini:
-- name: "Daniel Alencar da Costa"
-  img: "daniel.costa.jpg"
-  email: "daniel.calencar@gmail.com"
-  since: "mar/2013"
-  until: "fev/2017"
-  url: "http://danielcalencar.github.io"
-  desc: "PhD at PPGSC / UFRN"
+
+- name: "Guilherme Dutra Diniz de Freitas"
+  img: "guilherme.freitas.png"
+  email: "guilhermeddf@ufrn.edu.br"
+  since: "fev/2018"
+  url: "#"
+  desc: "MSc Student at PPGSC / UFRN"
 
 - name: "Demóstenes Santos de Sena"
   img: "demostenes.jpg"
@@ -128,6 +130,13 @@ alumini:
   url: "#"
   desc: "PhD at PPGSC / UFRN"
 
+- name: "João Helis Junior de Azevedo Bernardo"
+  img: "joao.helis.jpg"
+  email: "joaohelis@ppgsc.ufrn.br"
+  since: "jul/2015"
+  until: "jul/2017"
+  url: "http://joaohelis.com"
+  desc: "MSc Student at PPGSC - UFRN"
 
 - name: "Edmilson Barbalho Campos Neto"
   img: "edmilson.neto.jpg"
@@ -137,23 +146,13 @@ alumini:
   url: "http://edmilsoncampos.net"
   desc: "Phd at PPGSC - UFRN"
 
-- name: "Felipe Alves Pereira Pinto"
-  img: "felipe.alves.jpg"
-  email: "felipe.pinto@ifrn.edu.br"
-  url: "#"
-  desc: "PhD at PPGSC / UFRN"
-
-- name: "Fellipe Araújo Aleixo"
-  img: "fellipe.aleixo.png"
-  email: "felipe.aleixo@ifrn.edu.br"
-  url: "http://diatinf.ifrn.edu.br/prof/doku.php?id=user:1301182"
-  desc: "PhD at PPGSC / UFRN"
-
-- name: "Marília Aranha Freire"
-  img: "marilia.freire.jpg"
-  email: "marilia.freire@ifrn.edu.br"
-  url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
-  desc: "PhD at PPGSC / UFRN"
+- name: "Leo Moreira Silva"
+  img: "leo.silva.jpg"
+  email: "leo.moreira@me.com"
+  since: "fev/2015"
+  until: "jul/2017"
+  url: "http://lattes.cnpq.br/4853538472620935"
+  desc: "MSc Student at PPGSC - UFRN"
 
 - name: "Adorilson Bezerra"
   img: "adorilson.bezerra.jpg"
@@ -163,6 +162,20 @@ alumini:
   url: "http://docente.ifrn.edu.br/adorilsonbezerra"
   desc: "MSc at PPGSC / UFRN"
 
+- name: "Daniel Alencar da Costa"
+  img: "daniel.costa.jpg"
+  email: "daniel.calencar@gmail.com"
+  since: "mar/2013"
+  until: "fev/2017"
+  url: "http://danielcalencar.github.io"
+  desc: "PhD at PPGSC / UFRN"
+
+- name: "Felipe Alves Pereira Pinto"
+  img: "felipe.alves.jpg"
+  email: "felipe.pinto@ifrn.edu.br"
+  url: "#"
+  desc: "PhD at PPGSC / UFRN"
+
 - name: "Jadson José dos Santos"
   img: "jadson.santos.jpg"
   email: "jadsonjs@gmail.com"
@@ -171,18 +184,15 @@ alumini:
   url: "http://github.com/jadsonjs"
   desc: "MSc at PPGSC / UFRN"
 
-- name: "João Helis Junior de Azevedo Bernardo"
-  img: "joao.helis.jpg"
-  email: "joaohelis@ppgsc.ufrn.br"
-  since: "jul/2015"
-  until: "jul/2017"
-  url: "http://joaohelis.com"
-  desc: "MSc at PPGSC / UFRN"
+- name: "Marília Aranha Freire"
+  img: "marilia.freire.jpg"
+  email: "marilia.freire@ifrn.edu.br"
+  url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
+  desc: "PhD at PPGSC / UFRN"
 
-- name: "Leo Moreira Silva"
-  img: "leo.silva.jpg"
-  email: "leo.moreira@me.com"
-  since: "fev/2015"
-  until: "jul/2017"
-  url: "http://lattes.cnpq.br/4853538472620935"
-  desc: "MSc Student at PPGSC - UFRN"
+- name: "Fellipe Araújo Aleixo"
+  img: "fellipe.aleixo.png"
+  email: "felipe.aleixo@ifrn.edu.br"
+  url: "http://diatinf.ifrn.edu.br/prof/doku.php?id=user:1301182"
+  desc: "PhD at PPGSC / UFRN"
+
