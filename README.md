@@ -9,12 +9,12 @@ Our main research interests are currently software evolution, software architect
 The CASE Lab is located at Digital Metropolis Institute (IMD), UFRN.
 
 
-### Como atualizar o projeto
+### How to update the project
 
-Consulte a documentação dentro do diretório **"docs"**.
+Consult the documentation within the  **"docs"**. directory
 
 
-### Principais Contribuidores
+### Main Contributors
 
   * **Rodrigo Rebolças** - [rodrigor@ppgsc.ufrn.br](mailto:rodrigor@ppgsc.ufrn.br)
   * **Jadson Santos** - [jadsonjs@gmail.com](mailto:jadsonjs@gmail.com)
