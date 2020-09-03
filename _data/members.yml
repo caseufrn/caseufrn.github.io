@@ -21,8 +21,6 @@ faculty:
 - name: "Daniel Alencar da Costa"
   img: "daniel.costa.jpg"
   email: "daniel.calencar@gmail.com"
-  since: "mar/2013"
-  until: "fev/2017"
   url: "http://danielcalencar.github.io"
   desc: "Lecturer at the Information Science Department, University of Otago"
 
