@@ -18,12 +18,6 @@ faculty:
   url: "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1709820"
   desc: "Associate Professor, DIMAp, UFRN"
 
-- name: "Daniel Alencar da Costa"
-  img: "daniel.costa.jpg"
-  email: "daniel.calencar@gmail.com"
-  url: "http://danielcalencar.github.io"
-  desc: "Lecturer at the Information Science Department, University of Otago"
-
 - name: "Felipe Alves Pereira Pinto"
   img: "felipe.alves.jpg"
   email: "felipe.pinto@ifrn.edu.br"
@@ -98,6 +92,20 @@ mscstudent:
 
 undergrad:
 
+- name: "Anny Klarice Fernandes Souza"
+  img: "anny.souza.jpg"
+  email: "annykfsouza@gmail.com"
+  since: "ago/2020"
+  url: "#"
+  desc: "Undergrad student"
+
+- name: "Samuel Lucas de Moura Ferino"
+  img: "samuel.lucas.jpg"
+  email: "samuellucas97@ufrn.edu.br"
+  since: "ago/2019"
+  url: "#"
+  desc: "Undergrad student"
+
 - name: "Euchais Vieira Duarte"
   img: "euchais.duarte.jpg"
   email: "eucharles.ntd@gmail.com"
@@ -111,6 +119,9 @@ undergrad:
   since: "jul/2019"
   url: "#"
   desc: "Undergrad student"
+
+
+
 
 
 alumini:
