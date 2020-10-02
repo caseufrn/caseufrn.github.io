@@ -32,8 +32,8 @@ years:
 <div>
 <p><span class="label {%if item.type == "journal" %}label-success{%else%}label-info{%endif%}">{{item.type}}</span> <strong>{{item.title}}</strong>
 <em>{{item.authors}}, {{item.target}}</em>, {{item.year}} 
-{% if item.doi_link != nil %}<a href="{{item.doi_link}}" target="_blank"><span class="glyphicon glyphicon-link">doi</span></a>{%endif%}
-{% if item.filename != nil %}<a href="{{item.filename}}" target="_blank"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span></a>{% endif %}
+{% if item.doi_link != nil %}<a href="{{item.doi_link}}" target="_blank"> <span class="glyphicon glyphicon-link"> &nbsp;&nbsp;&nbsp; </span></a>{%endif%}
+{% if item.filename != nil %}<a href="{{item.filename}}" target="_blank"> <span class="glyphicon glyphicon-download-alt" aria-hidden="true"> &nbsp;&nbsp;&nbsp; </span></a>{% endif %}
 </p>
 </div>
 {% endif %}
