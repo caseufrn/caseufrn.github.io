@@ -66,14 +66,14 @@ phdstudent:
 
 - name: "Rodrigo Rebouças de Almeida"
   img: "rodrigo.reboucas.jpg"
-  email: "rodrigor@ppgsc.ufrn.br"
+  email: "rodrigor@dcx.ufpb.br"
   since: "fev/2017"
   url: "http://rodrigor.com"
   desc: "Phd Student at PPGSC - UFRN"
 
 - name: "Jadson José dos Santos"
   img: "jadson.santos.jpg"
-  email: "jadsonjs@gmail.com"
+  email: "jadson.santos@ufrn.br"
   since: "ago/2019"
   url: "http://github.com/jadsonjs"
   desc: "Phd Student at PPGSC / UFRN"
