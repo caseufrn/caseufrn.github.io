@@ -64,13 +64,6 @@ phdstudent:
   url: "#"
   desc: "Phd Student at PPGSC - UFRN"
 
-- name: "Rodrigo Rebouças de Almeida"
-  img: "rodrigo.reboucas.jpg"
-  email: "rodrigor@dcx.ufpb.br"
-  since: "fev/2017"
-  url: "http://rodrigor.com"
-  desc: "Phd Student at PPGSC - UFRN"
-
 - name: "Jadson José dos Santos"
   img: "jadson.santos.jpg"
   email: "jadson.santos@ufrn.br"
@@ -125,6 +118,14 @@ undergrad:
 
 
 alumini:
+
+- name: "Rodrigo Rebouças de Almeida"
+  img: "rodrigo.reboucas.jpg"
+  email: "rodrigor@dcx.ufpb.br"
+  since: "fev/2017"
+  until: "fev/2022"
+  url: "http://rodrigor.com"
+  desc: "PhD at PPGSC - UFRN"
 
 - name: "Gustavo Sizílio Nery"
   img: "gustavo.sizilio.jpg"
