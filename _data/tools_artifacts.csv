@@ -1,4 +1,2 @@
 type,title,description,link
 tools,PerfMiner Visualizer,"A web tool that uses software visualization techniques to help developers and architects to analyze the evolution of the performance quality attribute, in terms of execution time, for different software versions.","http://apvis.herokuapp.com/"
-artifacts,Snooper,"Snooper is a project to miner data from APIs of repositories like GitHub API, TravisCI API, Coveralls API, etc.","https://github.com/jadsonjs/snooper"
-artifacts,Gauge CI,"A library to calculate CI sub-practices values.","https://github.com/jadsonjs/gauge-ci"
