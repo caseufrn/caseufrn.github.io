@@ -1,9 +1,11 @@
 type,year,title,link,student,advisor,filename
-phd,2017,Uma Abordagem de Apoio à Extracão da Política de Tratamento de Exceções,#,Demostenes Santos de Sena,Uirá Kulesza,
+phd,2022,Business-driven technical debt prioritization,https://repositorio.ufrn.br/jspui/handle/123456789/47202,Rodrigo Rebouças de Almeida,Uirá Kulesza,Businessdriventechnical_Almeida_2022.pdf
+phd,2017,Uma Abordagem de Apoio à Extracão da Política de Tratamento de Exceções,https://repositorio.ufrn.br/jspui/handle/123456789/24125,Demostenes Santos de Sena,Uirá Kulesza,
 phd,2017,Understanding the Delivery Delays of Addressed Issues in Large Software Projects,https://repositorio.ufrn.br/jspui/handle/123456789/22685,Daniel Alencar da Costa,Uirá Kulesza,DanielAlencarDaCosta_TESE.pdf
 phd,2015,Formalização de Experimentos Controlados em Engenharia de Software,https://repositorio.ufrn.br/jspui/handle/123456789/20552,Marilia Aranha Freire,Uirá Kulesza,MariliaAranhaFreire_TESE.pdf
 phd,2015,An Automated Approach for Performance Deviaton Analysis of Evolving Software Systems,https://repositorio.ufrn.br/jspui/handle/123456789/21132,Felipe Alves Pereira Pinto,Uirá Kulesza,FelipeAlvesPereiraPinto_TESE.pdf
 phd,2013,"Uma Abordagem Anotativa para Gerência de Variabilidades em Linhas de Processos de Software: Concepção, Implementação e Avaliação",https://repositorio.ufrn.br/jspui/handle/123456789/17957,Fellipe Araújo Aleixo,Uirá Kulesza,FellipeAA_TESE.pdf
 msc,2017,Estudo Empírico de Análise da Compatibilidade de Aplicações Android com Diferentes Versões da API da Plataforma,#,Adorilson Bezerra de Araujo,Uirá Kulesza,
 msc,2016,Uma Abordagem para Análise de Cobertura de Código em Cenários de Evolução,#,Fladson Thiago Oliveira Gomes,Uirá Kulesza,
+msc,2015,Avaliação sistemática de uma abordagem para integração de funcionalidades em sistemas web clonados,https://repositorio.ufrn.br/jspui/handle/123456789/20772,Jadson José dos Santos,Uirá Kulesza,JadsonJoseDosSantos_DISSERT
 msc,2013,Um Método para Desenvolvimento de Abordagens Generativas com Composição de Linguagens Específicas de Domínio,https://repositorio.ufrn.br/jspui/handle/123456789/18087,Edmilson Barbalho Campos Neto,Uirá Kulesza,EdmilsonBCN_DISSERT.pdf
