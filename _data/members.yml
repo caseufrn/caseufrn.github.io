@@ -36,26 +36,7 @@ faculty:
 
 phdstudent:
 
-- name: "Eliezio Soares de Sousa Neto"
-  img: "eliezio.soares.jpg"
-  email: "elieziosoares@gmail.com"
-  since: "jul/2013"
-  url: "http://docente.ifrn.edu.br/docente/elieziosoares"
-  desc: "Phd Student at PPGSC - UFRN"
 
-- name: "João Helis Junior de Azevedo Bernardo"
-  img: "joao.helis.jpg"
-  email: "joaohelis@ppgsc.ufrn.br"
-  since: "ago/2017"
-  url: "http://joaohelis.com"
-  desc: "Phd Student at PPGSC - UFRN"
-
-- name: "José Diego Saraiva da Silva"
-  img: "diego.saraiva.jpg"
-  email: "diegosaraiva@gmail.com"
-  since: "jan/2018"
-  url: "#"
-  desc: "Phd Student at PPGSC - UFRN"
 
 - name: "Marcelo Rômulo Fernandes"
   img: "marcelo.fernandes.jpg"
@@ -64,12 +45,29 @@ phdstudent:
   url: "#"
   desc: "Phd Student at PPGSC - UFRN"
 
+
+- name: "Eliezio Soares de Sousa Neto"
+  img: "eliezio.soares.jpg"
+  email: "elieziosoares@gmail.com"
+  since: "jul/2019"
+  url: "http://docente.ifrn.edu.br/docente/elieziosoares"
+  desc: "Phd Student at PPGSC - UFRN"
+
+
 - name: "Jadson José dos Santos"
   img: "jadson.santos2.jpg"
   email: "jadson.santos@ufrn.br"
   since: "ago/2019"
   url: "http://github.com/jadsonjs"
   desc: "Phd Student at PPGSC / UFRN"
+
+- name: "João Helis Junior de Azevedo Bernardo"
+  img: "joao.helis.jpg"
+  email: "joaohelis@ppgsc.ufrn.br"
+  since: "ago/2021"
+  url: "http://joaohelis.com"
+  desc: "Phd Student at PPGSC - UFRN"
+
 
 #- name: "Rafael Julian"
 #  img: "rafael.julian.jpg"
@@ -118,6 +116,14 @@ undergrad:
 
 
 alumini:
+
+- name: "José Diego Saraiva da Silva"
+  img: "diego.saraiva.jpg"
+  email: "diegosaraiva@gmail.com"
+  since: "jan/2018"
+  until: "may/2023"
+  url: "#"
+  desc: "Phd at PPGSC - UFRN"
 
 - name: "Rodrigo Rebouças de Almeida"
   img: "rodrigo.reboucas.jpg"
