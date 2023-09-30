@@ -46,14 +46,6 @@ phdstudent:
   desc: "Phd Student at PPGSC - UFRN"
 
 
-- name: "Eliezio Soares de Sousa Neto"
-  img: "eliezio.soares.jpg"
-  email: "elieziosoares@gmail.com"
-  since: "jul/2019"
-  url: "http://docente.ifrn.edu.br/docente/elieziosoares"
-  desc: "Phd Student at PPGSC - UFRN"
-
-
 - name: "Jadson José dos Santos"
   img: "jadson.santos2.jpg"
   email: "jadson.santos@ufrn.br"
@@ -83,39 +75,40 @@ mscstudent:
 
 undergrad:
 
-- name: "Anny Klarice Fernandes Souza"
-  img: "anny.souza.jpg"
-  email: "annykfsouza@gmail.com"
-  since: "ago/2020"
-  url: "#"
-  desc: "Undergrad student"
+#- name: "Anny Klarice Fernandes Souza"
+#  img: "anny.souza.jpg"
+#  email: "annykfsouza@gmail.com"
+#  since: "ago/2020"
+#  url: "#"
+#  desc: "Undergrad student"
 
-- name: "Samuel Lucas de Moura Ferino"
-  img: "samuel.lucas.jpg"
-  email: "samuellucas97@ufrn.edu.br"
-  since: "ago/2019"
-  url: "#"
-  desc: "Undergrad student"
+#- name: "Euchais Vieira Duarte"
+#  img: "euchais.duarte.jpg"
+#  email: "eucharles.ntd@gmail.com"
+#  since: "jul/2019"
+#  url: "#"
+#  desc: "Undergrad student"
 
-- name: "Euchais Vieira Duarte"
-  img: "euchais.duarte.jpg"
-  email: "eucharles.ntd@gmail.com"
-  since: "jul/2019"
-  url: "#"
-  desc: "Undergrad student"
-
-- name: "Rafael do Nascimento Ribeiro"
-  img: "rafael.ribeiro.jpg"
-  email: "rafaelnribeiro@outlook.com"
-  since: "jul/2019"
-  url: "#"
-  desc: "Undergrad student"
+#- name: "Rafael do Nascimento Ribeiro"
+#  img: "rafael.ribeiro.jpg"
+#  email: "rafaelnribeiro@outlook.com"
+#  since: "jul/2019"
+#  url: "#"
+#  desc: "Undergrad student"
 
 
 
 
 
 alumini:
+
+
+- name: "Eliezio Soares de Sousa Neto"
+  img: "eliezio.soares.jpg"
+  email: "elieziosoares@gmail.com"
+  since: "jul/2019"
+  url: "http://docente.ifrn.edu.br/docente/elieziosoares"
+  desc: "Phd Student at PPGSC - UFRN"
 
 - name: "José Diego Saraiva da Silva"
   img: "diego.saraiva.jpg"
@@ -124,6 +117,14 @@ alumini:
   until: "may/2023"
   url: "#"
   desc: "Phd at PPGSC - UFRN"
+
+- name: "Samuel Lucas de Moura Ferino"
+  img: "samuel.lucas.jpeg"
+  email: "samuellucas97@ufrn.edu.br"
+  since: "ago/2019"
+  until: "2022"
+  url: "#"
+  desc: "MSc Student at PPGSC / UFRN"
 
 - name: "Rodrigo Rebouças de Almeida"
   img: "rodrigo.reboucas.jpg"
