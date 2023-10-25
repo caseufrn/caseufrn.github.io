@@ -37,15 +37,6 @@ faculty:
 phdstudent:
 
 
-
-- name: "Marcelo Rômulo Fernandes"
-  img: "marcelo.fernandes.jpg"
-  email: "marcelo.fernandes@ifrn.edu.br"
-  since: "dez/2018"
-  url: "#"
-  desc: "Phd Student at PPGSC - UFRN"
-
-
 - name: "Jadson José dos Santos"
   img: "jadson.santos2.jpg"
   email: "jadson.santos@ufrn.br"
@@ -58,6 +49,12 @@ phdstudent:
   email: "joaohelis@ppgsc.ufrn.br"
   since: "ago/2021"
   url: "http://joaohelis.com"
+  desc: "Phd Student at PPGSC - UFRN"
+
+- name: "Marcos Alexandre de Melo Medeiros"
+  email: ""
+  since: "ago/2021"
+  url: ""
   desc: "Phd Student at PPGSC - UFRN"
 
 
@@ -103,10 +100,19 @@ undergrad:
 alumini:
 
 
+- name: "Marcelo Rômulo Fernandes"
+  img: "marcelo.fernandes.jpg"
+  email: "marcelo.fernandes@ifrn.edu.br"
+  since: "dez/2018"
+  until: "nov/2023"
+  url: "#"
+  desc: "Phd at PPGSC - UFRN"
+
 - name: "Eliezio Soares de Sousa Neto"
   img: "eliezio.soares.jpg"
   email: "elieziosoares@gmail.com"
   since: "jul/2019"
+  until: "set/2023"
   url: "http://docente.ifrn.edu.br/docente/elieziosoares"
   desc: "Phd at PPGSC - UFRN"
 
