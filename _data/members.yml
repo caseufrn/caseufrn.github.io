@@ -108,7 +108,7 @@ alumini:
   email: "elieziosoares@gmail.com"
   since: "jul/2019"
   url: "http://docente.ifrn.edu.br/docente/elieziosoares"
-  desc: "Phd Student at PPGSC - UFRN"
+  desc: "Phd at PPGSC - UFRN"
 
 - name: "José Diego Saraiva da Silva"
   img: "diego.saraiva.jpg"
@@ -124,7 +124,7 @@ alumini:
   since: "ago/2019"
   until: "2022"
   url: "#"
-  desc: "MSc Student at PPGSC / UFRN"
+  desc: "MSc at PPGSC / UFRN"
 
 - name: "Rodrigo Rebouças de Almeida"
   img: "rodrigo.reboucas.jpg"
@@ -148,7 +148,7 @@ alumini:
   since: "fev/2018"
   until: "mar/2020"
   url: "#"
-  desc: "MSc Student at PPGSC / UFRN"
+  desc: "MSc at PPGSC / UFRN"
 
 - name: "Demóstenes Santos de Sena"
   img: "demostenes.jpg"
@@ -162,7 +162,7 @@ alumini:
   since: "jul/2015"
   until: "jul/2017"
   url: "http://joaohelis.com"
-  desc: "MSc Student at PPGSC - UFRN"
+  desc: "MSc at PPGSC - UFRN"
 
 - name: "Edmilson Barbalho Campos Neto"
   img: "edmilson.neto.jpg"
@@ -178,7 +178,7 @@ alumini:
   since: "fev/2015"
   until: "jul/2017"
   url: "http://lattes.cnpq.br/4853538472620935"
-  desc: "MSc Student at PPGSC - UFRN"
+  desc: "MSc at PPGSC - UFRN"
 
 - name: "Adorilson Bezerra"
   img: "adorilson.bezerra.jpg"
