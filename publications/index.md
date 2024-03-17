@@ -3,6 +3,7 @@ layout: default
 title: "Publications"
 
 years:
+ - '2024'
  - '2023'
  - '2022'
  - '2021'
