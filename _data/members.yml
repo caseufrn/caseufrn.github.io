@@ -156,11 +156,13 @@ alumini:
   url: "#"
   desc: "MSc at PPGSC / UFRN"
 
-- name: "Demóstenes Santos de Sena"
-  img: "demostenes.jpg"
-  email: "demostenes.sena@ifrn.edu.br"
-  url: "#"
-  desc: "PhD at PPGSC / UFRN"
+- name: "Edmilson Barbalho Campos Neto"
+  img: "edmilson.neto.jpg"
+  email: "edmilson.campos@ifrn.edu.br"
+  since: "jul/2013"
+  until: "2018"
+  url: "http://edmilsoncampos.net"
+  desc: "Phd at PPGSC - UFRN"
 
 - name: "João Helis Junior de Azevedo Bernardo"
   img: "joao.helis.jpg"
@@ -170,14 +172,6 @@ alumini:
   url: "http://joaohelis.com"
   desc: "MSc at PPGSC - UFRN"
 
-- name: "Edmilson Barbalho Campos Neto"
-  img: "edmilson.neto.jpg"
-  email: "edmilson.campos@ifrn.edu.br"
-  since: "jul/2013"
-  until: "2018"
-  url: "http://edmilsoncampos.net"
-  desc: "Phd at PPGSC - UFRN"
-
 - name: "Leo Moreira Silva"
   img: "leo.silva.jpg"
   email: "leo.moreira@me.com"
@@ -185,6 +179,13 @@ alumini:
   until: "jul/2017"
   url: "http://lattes.cnpq.br/4853538472620935"
   desc: "MSc at PPGSC - UFRN"
+
+- name: "Demóstenes Santos de Sena"
+  img: "demostenes.jpg"
+  email: "demostenes.sena@ifrn.edu.br"
+  until: "fev/2017"
+  url: "#"
+  desc: "PhD at PPGSC / UFRN"
 
 - name: "Adorilson Bezerra"
   img: "adorilson.bezerra.jpg"
@@ -202,13 +203,6 @@ alumini:
   url: "http://danielcalencar.github.io"
   desc: "PhD at PPGSC / UFRN"
 
-- name: "Felipe Alves Pereira Pinto"
-  img: "felipe.alves.jpg"
-  email: "felipe.pinto@ifrn.edu.br"
-  until: "2015"
-  url: "#"
-  desc: "PhD at PPGSC / UFRN"
-
 - name: "Jadson José dos Santos"
   img: "jadson.santos.jpg"
   email: "jadsonjs@gmail.com"
@@ -216,6 +210,13 @@ alumini:
   until: "fev/2016"
   url: "http://github.com/jadsonjs"
   desc: "MSc at PPGSC / UFRN"
+
+- name: "Felipe Alves Pereira Pinto"
+  img: "felipe.alves.jpg"
+  email: "felipe.pinto@ifrn.edu.br"
+  until: "2015"
+  url: "#"
+  desc: "PhD at PPGSC / UFRN"
 
 - name: "Marília Aranha Freire"
   img: "marilia.freire.jpg"
