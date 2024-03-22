@@ -205,6 +205,7 @@ alumini:
 - name: "Felipe Alves Pereira Pinto"
   img: "felipe.alves.jpg"
   email: "felipe.pinto@ifrn.edu.br"
+  until: "2015"
   url: "#"
   desc: "PhD at PPGSC / UFRN"
 
@@ -219,12 +220,14 @@ alumini:
 - name: "Marília Aranha Freire"
   img: "marilia.freire.jpg"
   email: "marilia.freire@ifrn.edu.br"
+  until: "2015"
   url: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:marilia"
   desc: "PhD at PPGSC / UFRN"
 
 - name: "Fellipe Araújo Aleixo"
   img: "fellipe.aleixo.png"
   email: "felipe.aleixo@ifrn.edu.br"
+  until: "2013"
   url: "http://diatinf.ifrn.edu.br/prof/doku.php?id=user:1301182"
   desc: "PhD at PPGSC / UFRN"
 
