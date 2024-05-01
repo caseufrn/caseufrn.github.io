@@ -37,13 +37,6 @@ faculty:
 phdstudent:
 
 
-- name: "Jadson José dos Santos"
-  img: "jadson.santos2.jpg"
-  email: "jadson.santos@ufrn.br"
-  since: "ago/2019"
-  url: "http://github.com/jadsonjs"
-  desc: "Phd Student at PPGSC / UFRN"
-
 - name: "João Helis Junior de Azevedo Bernardo"
   img: "joao.helis.jpg"
   email: "joaohelis@ppgsc.ufrn.br"
@@ -99,6 +92,13 @@ undergrad:
 
 alumini:
 
+- name: "Jadson José dos Santos"
+  img: "jadson.santos2.jpg"
+  email: "jadson.santos@ufrn.br"
+  since: "ago/2019"
+  until: "apr/2024"
+  url: "http://github.com/jadsonjs"
+  desc: "Phd at PPGSC / UFRN"
 
 - name: "Marcelo Rômulo Fernandes"
   img: "marcelo.fernandes.jpg"
