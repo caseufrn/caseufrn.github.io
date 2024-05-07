@@ -1,4 +1,7 @@
 type,year,title,link,student,advisor,filename
+msc,2024,Integrating Information Retrieval and Crash Report Grouping Techniques to Improve Bug Localization for Web-based Systems,,Miguel de Oliveira Ataide,Uirá Kulesza,,
+msc,2024,Avaliação da Ferramenta EvoMaster na Geração de Casos de Teste para Aplicações REST,,Victor Hugo Freire Ramalho,Uirá Kulesza,,
+phd,2024,A Deep Dive into Continuous Integration Monitoring Practices,,Jadson José dos Santos,Uirá Kulesza,,
 phd,2023,Understanding Challenges and Recommendations in DevOps Education,,Marcelo Rômulo Fernandes,Uirá Kulesza,,
 phd,2023,Understanding the Relationship between Continuous Integration and Code Coverage,https://repositorio.ufrn.br/jspui/handle/123456789/54543,Jose Diego Saraiva da Silva,Uirá Kulesza,https://repositorio.ufrn.br/jspui/bitstream/123456789/54543/1/Entendendorelacaoentreintegracao_Silva_2023.pdf,
 phd,2023,The Effects of Continuous Integration on Software Development: a causal investigation,https://repositorio.ufrn.br/jspui/handle/123456789/57351,Eliezio Soares,Uirá Kulesza,https://repositorio.ufrn.br/jspui/bitstream/123456789/57351/1/Effectscontinuousintegration_SousaNeto_2023.pdf,
