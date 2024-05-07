@@ -18,17 +18,23 @@ faculty:
   url: "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1709820"
   desc: "Associate Professor, DIMAp, UFRN"
 
-- name: "Felipe Alves Pereira Pinto"
-  img: "felipe.alves.jpg"
-  email: "felipe.pinto@ifrn.edu.br"
-  url: "#"
-  desc: "Assistant professor, IFRN"
+- name: "Jadson José dos Santos"
+  img: "jadson.santos3.jpg"
+  email: "jadson.santos@ufrn.br"
+  url: "http://github.com/jadsonjs"
+  desc: "Associate Researcher"  
 
-- name: "Gustavo Sizílio Nery"
-  img: "gustavo.sizilio.jpg"
-  email: "gustavo.sizilio@ifrn.edu.br"
-  url: "#"
-  desc: "Assistant professor, IFRN"
+#- name: "Felipe Alves Pereira Pinto"
+#  img: "felipe.alves.jpg"
+#  email: "felipe.pinto@ifrn.edu.br"
+#  url: "#"
+#  desc: "Assistant professor, IFRN"
+
+#- name: "Gustavo Sizílio Nery"
+#  img: "gustavo.sizilio.jpg"
+#  email: "gustavo.sizilio@ifrn.edu.br"
+#  url: "#"
+#  desc: "Assistant professor, IFRN"
 
 
 
