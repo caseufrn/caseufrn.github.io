@@ -51,6 +51,7 @@ phdstudent:
   desc: "Phd Student at PPGSC - UFRN"
 
 - name: "Marcos Alexandre de Melo Medeiros"
+  img: "default.png"
   email: ""
   since: "ago/2021"
   url: ""
