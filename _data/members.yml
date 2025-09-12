@@ -44,17 +44,25 @@ phdstudent:
 
 
 - name: "Marcos Alexandre de Melo Medeiros"
-  img: "default.png"
+  img: "marcos-alexandre.jpeg"
   email: ""
   since: "ago/2021"
   url: ""
   desc: "Phd Student at PPGSC - UFRN"
 
+
+- name: "Frederico Nunes do Pranto Filh"
+  img: "frederico-nunes.jpeg"
+  email: ""
+  since: "ago/2024"
+  url: ""
+  desc: "Phd Student at PPGSC - UFRN"  
+
 - name: "Maycon Nazario"
   img: "maycon-nazario.jpeg"
   email: ""
   since: "ago/2025"
-  url: "https://www.linkedin.com/in/maycon-nazario-5b3a85238/"
+  url: ""
   desc: "Phd Student at PPGSC - UFRN"  
 
 
@@ -71,6 +79,13 @@ mscstudent:
 
 
 undergrad:
+
+- name: "Yuri Filgueira Tavares de Medeiros"
+  img: "yuri-filgueira.jpeg"
+  email: ""
+  since: "dez/2024"
+  url: "#"
+  desc: "Undergrad student"
 
 #- name: "Anny Klarice Fernandes Souza"
 #  img: "anny.souza.jpg"
@@ -99,6 +114,7 @@ undergrad:
   since: "dez/2024"
   url: "#"
   desc: "Undergrad student"
+
 
 
 
