@@ -50,6 +50,13 @@ phdstudent:
   url: ""
   desc: "Phd Student at PPGSC - UFRN"
 
+- name: "Maycon Nazario"
+  img: "maycon-nazario.jpeg"
+  email: ""
+  since: "ago/2025"
+  url: "https://www.linkedin.com/in/maycon-nazario-5b3a85238/"
+  desc: "Phd Student at PPGSC - UFRN"  
+
 
 #- name: "Rafael Julian"
 #  img: "rafael.julian.jpg"
@@ -85,6 +92,13 @@ undergrad:
 #  since: "jul/2019"
 #  url: "#"
 #  desc: "Undergrad student"
+
+- name: "Yuri Filgueira Tavares de Medeiros"
+  img: "yuri-filgueira.jpeg"
+  email: ""
+  since: "dez/2024"
+  url: "#"
+  desc: "Undergrad student"
 
 
 
