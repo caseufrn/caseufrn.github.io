@@ -1,4 +1,5 @@
 type,year,title,link,student,advisor,filename
+phd,2025,Investigando a Relação entre Integração Contínua e Projetos de Aprendizado de Máquina,,João Helis Junior de Azevedo Bernardo,Uirá Kulesza,,
 msc,2024,Integrating Information Retrieval and Crash Report Grouping Techniques to Improve Bug Localization for Web-based Systems,,Miguel de Oliveira Ataide,Uirá Kulesza,,
 msc,2024,Avaliação da Ferramenta EvoMaster na Geração de Casos de Teste para Aplicações REST,,Victor Hugo Freire Ramalho,Uirá Kulesza,,
 phd,2024,A Deep Dive into Continuous Integration Monitoring Practices,https://repositorio.ufrn.br/handle/123456789/60466,Jadson José dos Santos,Uirá Kulesza,https://repositorio.ufrn.br/bitstream/123456789/60466/1/Deepdiveintocontinuous_Santos_2024.pdf,

@@ -43,13 +43,6 @@ faculty:
 phdstudent:
 
 
-- name: "João Helis Junior de Azevedo Bernardo"
-  img: "joao.helis.jpg"
-  email: "joaohelis@ppgsc.ufrn.br"
-  since: "ago/2021"
-  url: "http://joaohelis.com"
-  desc: "Phd Student at PPGSC - UFRN"
-
 - name: "Marcos Alexandre de Melo Medeiros"
   img: "default.png"
   email: ""
@@ -98,6 +91,14 @@ undergrad:
 
 
 alumini:
+
+- name: "João Helis Junior de Azevedo Bernardo"
+  img: "joao.helis.jpg"
+  email: "joaohelis@ppgsc.ufrn.br"
+  since: "ago/2021"
+  until: "set/2025"
+  url: "http://joaohelis.com"
+  desc: "Phd Student at PPGSC - UFRN"
 
 - name: "Jadson José dos Santos"
   img: "jadson.santos2.jpg"
