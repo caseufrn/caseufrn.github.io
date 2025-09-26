@@ -87,6 +87,13 @@ undergrad:
   url: "#"
   desc: "Undergrad student"
 
+- name: "Luísa Ferreira de Souza Santos"
+  img: "luiza_ferreira.png"
+  email: ""
+  since: "dez/2024"
+  url: "#"
+  desc: "Undergrad student"  
+
 #- name: "Anny Klarice Fernandes Souza"
 #  img: "anny.souza.jpg"
 #  email: "annykfsouza@gmail.com"
