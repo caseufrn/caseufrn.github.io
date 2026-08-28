@@ -118,7 +118,8 @@ alumini:
   img: "marcos-alexandre.jpeg"
   email: ""
   since: "ago/2021"
-  url: "ago/2021"
+  until: "ago/2026"
+  url: ""
   desc: "Phd at PPGSC - UFRN"
 
 - name: "João Helis Junior de Azevedo Bernardo"
