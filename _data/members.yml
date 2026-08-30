@@ -56,14 +56,14 @@ phdstudent:
 
 
 - name: "Frederico Nunes do Pranto Filho"
-  img: "frederico-nunes.jpeg"
+  img: "frederico-nunes.png"
   email: ""
   since: "ago/2024"
   url: ""
   desc: "Phd Student at PPGSC - UFRN"  
 
 - name: "Maycon Nazario"
-  img: "maycon-nazario.jpeg"
+  img: "maycon-nazario.png"
   email: ""
   since: "ago/2025"
   url: ""
