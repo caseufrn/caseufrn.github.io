@@ -12,17 +12,29 @@ faculty:
   url: "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1671962"
   desc: "Associate Professor, DIMAp, UFRN"
 
-- name: "Roberta De Souza Coelho"
-  img: "roberta.coelho.png"
-  email: "roberta@dimap.ufrn.br"
-  url: "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1709820"
-  desc: "Associate Professor, DIMAp, UFRN"
-
 - name: "Jadson José dos Santos"
   img: "jadson.santos3.jpg"
   email: "jadson.santos@ufrn.br"
-  url: "http://github.com/jadsonjs"
+  url: "https://jadsonjs.wordpress.com/about/"
   desc: "Associate Researcher"  
+
+- name: "Marcos Alexandre de Melo Medeiros"
+  img: "marcos-alexandre.jpeg"
+  email: "marcosamm@gmail.com"
+  url: "#"
+  desc: "Associate Researcher" 
+
+- name: "João Helis Junior de Azevedo Bernardo"
+  img: "joao.helis.jpg"
+  email: "joaohelis@ppgsc.ufrn.br"
+  url: "http://joaohelis.com"
+  desc: "Associate Researcher"
+
+#- name: "Roberta De Souza Coelho"
+#  img: "roberta.coelho.png"
+#  email: "roberta@dimap.ufrn.br"
+#  url: "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1709820"
+#  desc: "Associate Professor, DIMAp, UFRN"  
 
 #- name: "Felipe Alves Pereira Pinto"
 #  img: "felipe.alves.jpg"
