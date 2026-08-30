@@ -19,7 +19,7 @@ faculty:
   desc: "Associate Researcher"  
 
 - name: "Marcos Alexandre de Melo Medeiros"
-  img: "marcos-alexandre.jpeg"
+  img: "marcos-alexandre.png"
   email: "marcosamm@gmail.com"
   url: "#"
   desc: "Associate Researcher" 
@@ -127,7 +127,7 @@ undergrad:
 alumini:
 
 - name: "Marcos Alexandre de Melo Medeiros"
-  img: "marcos-alexandre.jpeg"
+  img: "marcos-alexandre.png"
   email: ""
   since: "ago/2021"
   until: "ago/2026"
